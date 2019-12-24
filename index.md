@@ -2,7 +2,7 @@
 layout: page
 title: Mike Worden  
 subtitle: Security Engineer and Software Developer
-css: "/css/index.css"
+css: "/css/main.css"
 meta-title: "Mike Worden""
 meta-description: "Engineering Fellow at Raytheon"
 bigimg:
