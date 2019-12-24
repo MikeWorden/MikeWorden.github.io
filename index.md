@@ -7,8 +7,8 @@ meta-title: "Mike Worden"
 meta-description: "Engineering Fellow at Raytheon"
 bigimg:
   - "/img/big-imgs/Flatirons_Winter_Sunrise_edit_2.jpg" : "Colorado Flatirons"
-  - "/img/big-imgs/US_Navy_110805-N-XP477-010_Plebes_in_the_U.S._Naval_Academy's_Class_of_2015_leave_Worden_Field_after_marching_in_a_formal_parade_during_the_fifth_w.JPG" : "Worden Field, United States Naval Academy"
-  - "/img/big-imgs/Hudson_River_West_Point_Plain.JPG" : "United States Military Academy, West Point, NY"
+  - "/img/big-imgs/Hudson_River_West_Point_Plain.jpg" : "Worden Field, United States Naval Academy"
+  - "/img/big-imgs/Hudson_River_West_Point_Plain.jpg" : "United States Military Academy, West Point, NY"
 ---
 
 <div style="text-align:center">
