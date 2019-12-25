@@ -22,6 +22,7 @@ description: Academic website and blog
 navbar-links:
   About Me: "aboutme"
   Publications:  "publications"
+  Resume:  "resume"
   Home: "http://mikeworden.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
