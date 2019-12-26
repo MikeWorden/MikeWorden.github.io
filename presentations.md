@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 ---
 
-In case you are interested in me speaking at an event, reach out to me at:  michael.worden@colostate.edu
+In case you are interested in me speaking at an event, reach out to me at:  <michael.worden@colostate.edu>
 
 
 These are the talks I’ve  **done**:
