@@ -22,6 +22,7 @@ description: Academic website and blog
 navbar-links:
   About Me: "aboutme"
   Publications:  "publications"
+  Presentations:  "presentations"
   Resume:  "resume"
   Home: "http://mikeworden.github.io"
 
