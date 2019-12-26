@@ -11,7 +11,6 @@ In case you are interested in me speaking at an event, reach out to me at:  mich
 These are the talks I’ve  **done**:
 
 
-<center>
 
 |Event     | Title | 
 | ---        |    ----   | 
@@ -29,4 +28,3 @@ These are the talks I'm **planning**:
 |[ITEA 7th Cybersecurity Workshop](https://www.itea.org/event/7th-cybersecurity-workshop-2020/)|Youthful Discretion:  Lessons Learning Recruiting, Engaging and Retaining Junior Engineers |
  
 
- </center>
