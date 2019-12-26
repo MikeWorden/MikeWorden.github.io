@@ -14,9 +14,9 @@ These are the talks I’ve  **done**:
 | ---        |    ----   | 
 |[2019 Shipyard Additive Manufacturing Summit](https://arl.psu.edu/sams)| Secure Additive Manufacturing through Blockchains |       
 |[2018 NIST Cybersecurity Risk Management Conference](https://csrc.nist.gov/Events/2018/NIST-Cybersecurity-Risk-Management-Conference)| Automated Cyber Hardening|       
-| [GSAW 2018](https://gsaw.org/past-proceedings/2018-2/) | Automated Cyber Hardening of Mission Management Systems      | 
-| [GSAW 2014](https://gsaw.org/past-proceedings/2014-2/)  | Retrofitting Ground Systems to improve Cyber Security        | 
-| [GSAW 2013](https://gsaw.org/past-proceedings/2013-2/)|Enabling GPS Information Sharing with Improved GPS OCX Security|
+| [Ground Systems Architecture Workshop 2018](https://gsaw.org/past-proceedings/2018-2/) | Automated Cyber Hardening of Mission Management Systems      | 
+| [Ground Systems Architecture Workshop 2014](https://gsaw.org/past-proceedings/2014-2/)  | Retrofitting Ground Systems to improve Cyber Security        | 
+| [Ground Systems Architecture Workshop 2013](https://gsaw.org/past-proceedings/2013-2/)|Enabling GPS Information Sharing with Improved GPS OCX Security|
 
 
 These are the talks I'm **planning**: 
