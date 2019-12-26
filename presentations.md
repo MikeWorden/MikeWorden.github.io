@@ -23,7 +23,7 @@ These are the talks I'm **planning**:
 
 |Event     | Title | 
 | ---        |    ----   | 
-| [ITEA 7th Cybersecurity Workshop](https://www.itea.org/event/7th-cybersecurity-workshop-2020/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Cyber Pipelines -- Solving Cyber Problems with Agile Tools  |
+| [ITEA 7th Cybersecurity Workshop](https://www.itea.org/event/7th-cybersecurity-workshop-2020/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Cyber Pipelines -- Solving Cyber Problems with Agile Tools  |
 |[ITEA 7th Cybersecurity Workshop](https://www.itea.org/event/7th-cybersecurity-workshop-2020/)|Youthful Discretion:  Lessons Learning Recruiting, Engaging and Retaining Junior Engineers |
  
 
