@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Not much to say right now....
 ---
 
 ## Mission-driven cyber researcher with a focus on cyber-resilency, embedded systems and seamless integration.
