@@ -5,15 +5,15 @@ title: About me
 
 ## Mission-driven cyber researcher with a focus on cyber-resilency and seamless integration.
 
-My approach is to provide ***cyber solutions that support the mission*** and use-cases of the system.   Realizing that cyber-attacks are inevitable, I focus on approaches to power through an attack. I leverage my executive experience (trained at West Point and honed as an executive on Wall Street) and technical depth (gained protecting systems integrated into our nation's critical infrastructure) into solutions designed to integrate elegantly into today's leading technology platforms.
+My approach is to provide ***cyber solutions that support the business***.   Security features should support, not impede, the desired function of the system.   Realizing that cyber-attacks are inevitable, I focus on approaches that allow the system to operate while under attack. I leverage automation (mostly python and ruby) to ensure that my solutions scale and integrate well into DevOps factory environments.
 
 **Current Focus Areas**: *Embedded Systems/Avionics/IoT*
 
 ## Passionate leader and teacher who values diversity, collaboration and teaching
 
-My design approach blends agile methodologies and diverse teams of experienced and novice developers.    Over the past 5 years, I have invested heavily in internship programs, both to overcome the shortfall of cyber engineering talent and to bring fresh perspectives to some of today's tough technology problems.   This investment has paid off for the industry, with a large number of systems and software engineers that are 'cyber aware' and for me, allowing for hands-on opportunities to learn about today's leading technology disruptors.   
+My design approach blends agile methodologies and diverse teams of experienced and novice developers.    My research teams typically include both experienced engineers, who bring a wealth of domain-specific experience, and junior engineers, who bring fresh, and often startling insights into cyber defense.  Over the past 5 years, I have invested heavily in college internship programs to bring fresh perspectives to some of today's cyber defenseproblems.   This investment has paid off for the industry, with a large number of systems and software engineers that are 'cyber aware' and for me, allowing hands-on opportunities to learn about today's leading technology disruptors.   
 
-**Current Learning Areas**: *Machine Learning/Python/Reverse Engineering*
+**Current Learning Areas**: *Machine Learning/Reverse Engineering*
 
 ##  Enthusiastic maker, looking to blend the technology into the fabric of our life
 
