@@ -3,9 +3,9 @@ layout: page
 title: About me
 ---
 
-## Mission-driven cyber researcher with a focus on cyber-resilency, embedded systems and seamless integration.
+## Mission-driven cyber researcher with a focus on cyber-resilency and seamless integration.
 
-My approach is to provide ***cyber solutions that support the mission*** and use-cases of the system.   Realizing that cyber-attacks are inevitable, I focus on cyber-resiliency and shy away from  "one-size fits all" approaches.   The cyber protections applied to a safety-critical system (say, an aircraft) are different than those used to protect an e-commerce website.   I blend my executive experience (trained at West Point and honed as an executive on Wall Street) and technical depth (gained protecting systems integrated into our nation's critical infrastructure) into solutions designed to integrate elegantly into today's leading technology platforms.
+My approach is to provide ***cyber solutions that support the mission*** and use-cases of the system.   Realizing that cyber-attacks are inevitable, I focus on approaches to power through an attack. I leverage my executive experience (trained at West Point and honed as an executive on Wall Street) and technical depth (gained protecting systems integrated into our nation's critical infrastructure) into solutions designed to integrate elegantly into today's leading technology platforms.
 
 **Current Focus Areas**: *Embedded Systems/Avionics/IoT*
 
