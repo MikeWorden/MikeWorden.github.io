@@ -11,7 +11,7 @@ My approach is to provide ***cyber solutions that support the mission*** and use
 
 ## Passionate leader and teacher who values diversity, collaboration and teaching
 
-My design approach blends agile methodologies, a diverse (and often geographically dispersed ) team, and a mixture of experienced and novice developers.    Over the past 5 years, I have invested heavily in internship programs, both to overcome the shortfall of cyber engineering talent and to bring fresh perspectives to some of today's tough technology problems.   This investment has paid off for the industry, with a large number of systems and software engineers that are 'cyber aware' and for me, allowing for hands-on opportunities to learn about today's leading technology disruptors.   
+My design approach blends agile methodologies and diverse teams of experienced and novice developers.    Over the past 5 years, I have invested heavily in internship programs, both to overcome the shortfall of cyber engineering talent and to bring fresh perspectives to some of today's tough technology problems.   This investment has paid off for the industry, with a large number of systems and software engineers that are 'cyber aware' and for me, allowing for hands-on opportunities to learn about today's leading technology disruptors.   
 
 **Current Learning Areas**: *Machine Learning/Python/Reverse Engineering*
 
